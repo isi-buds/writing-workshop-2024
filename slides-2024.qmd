@@ -125,10 +125,12 @@ What are the **common sections** of DA report?
 -   Personal satisfaction
 
     -   see project come together
+    
+. . . 
+    
+![](figures/motivation.png){width="1000"}
 
--   Gain experience with scientific writing
-
-    -   Communication is essential in every data science jobs (not only academia)
+-   Gain experience with scientific writing (essential in every data science jobs, not only academia)
 
 -   Can talk about this experience in your cover letter for grad school
 
