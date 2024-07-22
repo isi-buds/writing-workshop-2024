@@ -696,34 +696,83 @@ Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What rel
 
 # Final remarks & Resources
 
-## Types of DA report
+## USRESP
 
-USRESP identifies 2 main types of projects:
+<br>
 
--   [application]{.medium-green} focused
+- **Next deadline:** [December 2024]{.maroon} (usually  Dec 20th)
 
--   [methodology]{.orange} focused (i.e. focused on the properties of a statistical method)
+<br>
 
-. . .
+- **Everything** from USRESP shown today is on their website!
 
-::: {.callout-tip icon="false"}
-## [{{< fa feather >}} Practice]{.black}
+    - [General Information](https://www.causeweb.org/usproc/usresp)
+    
+    - [Template and evaluation criteria](https://www.causeweb.org/usproc/report-template-USRESP)
+    
+    - [Past winners and honorable mentions](https://www.causeweb.org/usproc/projects/winners)
 
-Can you tell the type from the title of past USRESP submissions?
+## About you: submitting to USRESP
 
--   *Performance of LDA And QDA On Non-Normally Distributed Predictors*
+![](figures/survey-submit-usresp.jpg){width="536"}
 
-    -   [methodology]{.orange}
+Discuss with your team:
 
--   *Spatial Modeling Of Bird Populations Using Citizen Science Data*
+- Who in your team wants to participate to the writing?
 
-    -   [application]{.medium-green}
+- Who could be your advisor(s) [_that is, who could give you feedback and supervise your paper_]?  When will you ask them?
 
--   *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*
+## Tools
 
-    -   [application]{.medium-green}
+::: nonincremental
 
--   *An Evaluation Of Regularization Methods: When There Are More Predictors Than Observations*
+In the `paper` folder, the skeleton uses Quarto for writing a paper. Look at use of:
 
-    -   [methodology]{.orange}
+-   child-documents
+
+-   section planning
+
+-   cross-references Sections, Equations, Figures and Tables
+
+-   references
+
+  - quick demo of adding new references
+  
 :::
+
+. . . 
+
+::: nonincremental
+
+The file `03-results.qmd` has an example table created with **kable and kable extra**
+
+- Check out [their vignette](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+:::
+
+## Your Feedback for me {{< fa handshake >}}
+
+Please take a moment to provide feedback for future editions of this workshop!
+
+::: {.columns .v-center-container}
+::: {.column width="50%"}
+### Link
+<br>
+<br>
+[bit.ly/isi-buds-writers-24](bit.ly/isi-buds-writers-24)
+:::
+
+::: {.column width="50%"}
+### QR code
+
+![](figures/feedback-qr-code.png){width="536"}
+:::
+:::
+
+# Thank you! <br> 
+
+*Reach out to me for any questions*
+
+{{< fa envelope >}}   fzricci\@uci.edu
+
+{{< fa globe >}}   <https://federicazoe.github.io/>
