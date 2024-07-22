@@ -20,7 +20,6 @@ format:
 ::: nonincremental
 [About me]{.orange}:
 
-
 -   5th Year PhD student in Statistics at UC Irvine
 
 -   Areas of specialization: Bayesian Statistics, Network data analysis, Probabilistic clustering, Data science education
@@ -31,12 +30,11 @@ format:
 ::: nonincremental
 [About you]{.medium-green}:
 
--   One person per team: introduce your team members (names and institutions)
+-   One person per team: introduce your **team members** (names and institutions)
 
--   Another person per team: introduce your research topic (1-2 sentences)
+-   Another person per team: introduce your **research topic** (1-2 sentences)
 
--   Another person per team: tell us about your progress (challenges addressed and to be addressed next)
-
+-   Another person per team: tell us about your progress (**challenges addressed and to be addressed** next)
 :::
 
 ## What are we learning today?
@@ -61,7 +59,7 @@ format:
 
 ## What is a data analysis (DA) paper?
 
-It's usually the culmination of a research project.
+It's usually the **culmination of a research project**.
 
 . . .
 
@@ -138,15 +136,15 @@ What are the **common sections** of DA report?
 
 -   Motivation
 
-    -   Let's be real, we all do best when we are targeting a clear output and a deadline
+    -   Let's be real, we all do best when we are **targeting a clear output** and a **deadline**
 
 -   Get feedback
 
-    -   With a competition to work for, there can be a process of back-and-forth feedback from your supervisor(s) on this project, that you can learn a lot from!
+    -   With a competition to work for, there can be a process of back-and-forth feedback from your supervisor(s) on this project, that you **can learn a lot from**!
 
 -   Your CV
 
-    -   You could be among the winners
+    -   You could be among the winners 
 
 -   Learn some concrete guidelines and judging criteria
 
@@ -170,14 +168,15 @@ What are the **common sections** of DA report?
 
 ## Examples of DA papers
 
-Previous winners and honorable mentions at USRESP include^[[causeweb.org/usproc/projects/winners](https://www.causeweb.org/usproc/projects/winners)] :
+Previous winners and honorable mentions at USRESP include[^1] :
+
+[^1]: [causeweb.org/usproc/projects/winners](https://www.causeweb.org/usproc/projects/winners)
 
 | Topic                                     | Title and Link                                                                                                                                                                                                                                                                                                                                                                        |
-|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Drug treatment dropout                    | [*Psychiatric Comorbidity in Opioid Use Treatment Outcomes*](https://www.causeweb.org/usproc/sites/default/files/usresp/2021-2/Psychiatric%20Comorbidity%20in%20Opioid%20Use%20Treatment%20Outcomes.pdf)*,* Linda Tang (Fall 2021)                                                                                                                                                   |
+|--------------|----------------------------------------------------------|
+| Drug treatment dropout                    | [*Psychiatric Comorbidity in Opioid Use Treatment Outcomes*](https://www.causeweb.org/usproc/sites/default/files/usresp/2021-2/Psychiatric%20Comorbidity%20in%20Opioid%20Use%20Treatment%20Outcomes.pdf)*,* Linda Tang (Fall 2021)                                                                                                                                                    |
 | Air pollution over time                   | [*Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*](https://www.causeweb.org/usproc/sites/default/files/usresp/2022-1/behind-the-smoke.pdf)*,* Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (Spring 2022)                                                                                                                                    |
 | Prediction and management of flash floods | [*Storm Chasers: Synthesizing New England Weather Data On A Dashboard For Emergency Response Workers*](https://www.causeweb.org/usproc/sites/default/files/usresp/2022-2/storm%20chasers%20synthesizing%20new%20england%20weather%20data%20on%20a%20dashboard%20for%20emergency%20response%20workers.pdf) Irene Foster, Sunshine Schneider, Caitlin Timmons, Katelyn Diaz (Fall 2022) |
-
 
 # The elements of a good paper
 
@@ -191,12 +190,11 @@ Discuss in teams and identify **one to three elements** you think should charact
 
 . . .
 
--   It is clear and easy to read 
+-   It is clear and easy to read
 
--   It tells an interesting story 
+-   It tells an interesting story
 
 -   It makes a good statistical analysis and explains the results well
-
 
 ## What makes for a good data analysis paper?
 
@@ -207,16 +205,14 @@ Discuss in teams and identify **one to three elements** you think should charact
 :::
 
 ::: nonincremental
-
--   It is clear and easy to read {{< fa arrow-right >}} *Overall [clarity]{.dark-pink} and [presentation]{.dark-pink}*[^1]
+-   It is clear and easy to read {{< fa arrow-right >}} *Overall [clarity]{.dark-pink} and [presentation]{.dark-pink}*[^2]
 
 -   It tells an interesting story {{< fa arrow-right >}} [*Originality, creativity*]{.purple}*, and [significance]{.purple} of the study*<sup>1</sup>
 
 -   It makes a good statistical analysis and explains the results well {{< fa arrow-right >}} [*Accuracy*]{.evergreen} *of data analysis, conclusions, and discussion*<sup>1</sup>
-
-[^1]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
-
 :::
+
+[^2]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
 
 ## What affects overall [clarity and presentation]{.dark-pink}?
 
@@ -264,69 +260,60 @@ A [good example {{< fa magnifying-glass >}}](https://www.causeweb.org/usproc/sit
 ## What affects [originality, creativity and significance]{.purple}?
 
 ::: nonincremental
-- The analysis seems to address a not so interesting question
-
-::: {.callout-tip}
-
-## Tips
-
-- Always try to work on an interesting application
-
-- What is something *you* think is particularly exciting of the topic - make sure you communicate that excitement!
-:::
-:::
-. . . 
-
-::: nonincremental
-- The paper feels a little 'dull'
+-   The analysis seems to address a not so interesting question
 
 ::: callout-tip
+## Tips
 
-Can you add an effective and eye-catching visualization to represent your topic?
+-   Always try to work on an interesting application
 
-A [good example {{< fa magnifying-glass >}}](https://www.causeweb.org/usproc/sites/default/files/usresp/2022-1/behind-the-smoke.pdf): *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*  by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (Figure 1, Introduction)
-
+-   What is something *you* think is particularly exciting of the topic - make sure you communicate that excitement!
+:::
 :::
 
+. . .
+
+::: nonincremental
+-   The paper feels a little 'dull'
+
+::: callout-tip
+Can you add an effective and eye-catching visualization to represent your topic?
+
+A [good example {{< fa magnifying-glass >}}](https://www.causeweb.org/usproc/sites/default/files/usresp/2022-1/behind-the-smoke.pdf): *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota* by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (Figure 1, Introduction)
+:::
 :::
 
 ## What affects [accuracy]{.evergreen}?
 
-
 ::: nonincremental
-- Something about the data analysis seems inaccurate/inappropriate
-
-::: {.callout-tip}
-
-## Tips
-
-- Make sure to mention why a certain methodology was chosen, what else could be considered, why it was excluded
-
-:::
-:::
-. . . 
-
-::: nonincremental
-- Something about the interpretation of results seems inaccurate
+-   Something about the data analysis seems inaccurate/inappropriate
 
 ::: callout-tip
+## Tips
 
-- Wait, so what is the answer to the research questions?
+-   Make sure to mention why a certain methodology was chosen, what else could be considered, why it was excluded
+:::
+:::
 
-- Avoid overgeneralizing or overstating your results
+. . .
+
+::: nonincremental
+-   Something about the interpretation of results seems inaccurate
+
+::: callout-tip
+-   Wait, so what is the answer to the research questions?
+
+-   Avoid overgeneralizing or overstating your results
 
 A good example
 
 ![](figures/example-accuracy-2.png){fig-align="center"}
 
-From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*  by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang
-
+From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota* by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang
+:::
 :::
 
 :::
-
-:::
-
 
 # Writing a paper
 
@@ -335,19 +322,18 @@ From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*
 -   *After* the project is concluded: Project –\> Writing
 
     -   *Pros*: Content is decided
-    
+
     -   *Cons*: Content is decided
-    
+
 -   *During* project development*:* Project *–\>* Writing -\> Project -\> ...
 
     -   *Pros*: Writing about the project can improve the way you think about it and the choices you make
 
     -   *Cons*: Content might change
-    
--   Can even think of the paper *before* starting working on the project: Writing -\> Project -\> ... 
+
+-   Can even think of the paper *before* starting working on the project: Writing -\> Project -\> ...
 
     -   *Pros*: Thinking how you would write about the project can inform which project you end up working on
-    
 
 ## Back to the paper's structure
 
@@ -361,46 +347,39 @@ From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*
 
 -   Discussion - *what do your findings mean?*
 
-
 ## How to get started: Strategies
 
 . . .
 
-
-::: {.callout-tip}
+::: callout-tip
 ## Strategy 1 - High level to low level
 
-1. Create empty document, create empty sections
+1.  Create empty document, create empty sections
 
-2. In each section, outline points to make 
+2.  In each section, outline points to make
 
-3. Visualize the resulting paper in your head, and reiterate 2., until it feels like the paper would tell the story well
+3.  Visualize the resulting paper in your head, and reiterate 2., until it feels like the paper would tell the story well
 
-4. In each section, list the paragraphs you need to write (i.e. the goal of the paragraphs and their sequence)
+4.  In each section, list the paragraphs you need to write (i.e. the goal of the paragraphs and their sequence)
 
-5. Fill-in the content of each paragraph accordingly
+5.  Fill-in the content of each paragraph accordingly
 
-- This can be extremely helpful if you are co-writing the paper with others!
-
+-   This can be extremely helpful if you are co-writing the paper with others!
 :::
-
-
 
 . . .
 
-
-::: {.callout-tip}
+::: callout-tip
 ## Strategy 2 - From results backward
 
-1. Start from thinking how you would visualize the results: what are your main figures (tables)? 
+1.  Start from thinking how you would visualize the results: what are your main figures (tables)?
 
-2. In reverse, plan Methods and Introduction to _tell the reader just all they need to know_ to fully understand and appreciate the results.
+2.  In reverse, plan Methods and Introduction to *tell the reader just all they need to know* to fully understand and appreciate the results.
 
-3. Write the Discussion section. Edit the Introduction if needed, to provide necessary context to appreciate/anticipate discussion.
-
+3.  Write the Discussion section. Edit the Introduction if needed, to provide necessary context to appreciate/anticipate discussion.
 :::
 
-. . . 
+. . .
 
 For the remaining of the workshop we will do a blend of these two strategies.
 
@@ -416,9 +395,11 @@ Together: look at what is in the folder
 
 ## [Results]{.maroon}: Content
 
-_What did your study find out?_
+*What did your study find out?*
 
-How to frame results section[^1]:
+How to frame results section[^3]:
+
+[^3]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
 
 -   typically, results sections **start with descriptive statistics** and **inferential** (i.e. hypothesis tests) **statistics come next**.
 
@@ -426,13 +407,9 @@ How to frame results section[^1]:
 
 -   **Tables and figures** are useful in this section and should be labeled, embedded in the text, and **referenced appropriately**.
 
-
-[^1]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
-
 ## [Results]{.maroon}: Tips
 
-::: {.callout-tip}
-
+::: callout-tip
 ## Tips
 
 -   Focus on a few, well explained points (e.g. 1, 2 or 3 main results)
@@ -441,42 +418,38 @@ How to frame results section[^1]:
 
 -   Make these visualizations and write "around" the visualizations
 
-    - Reference and make use of your Tables and Figures in the text. [Do not abandon them]{.medium-green}
-    
+    -   Reference and make use of your Tables and Figures in the text. [Do not abandon them]{.medium-green}
+
     -   Define a metric well - [example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1gRAAnH8o6nkAfnyC3VDZxffvuHXireWx) (highlighted text in Sec. 4.1)
-    
 :::
 
 ## [Results]{.maroon}: Workout
 
 Open the file paper/exercises/1-results.md and follow the instructions:
 
-- Work in sub-teams (5 min)
+-   Work in sub-teams (5 min)
 
-- Talk within each team (3 min)
+-   Talk within each team (3 min)
 
-- One team shares with everyone (random pick).
+-   One team shares with everyone (random pick).
 
-## [Methodology]{.maroon}: Content[^1]
+## [Methodology]{.maroon}: Content[^4]
+
+[^4]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
 
 -   **Data collection**\
-    - Explain how the data was collected/experiment was conducted. 
-    - Who was included? Who does this sample represent?
-    - What were issues with data collection (e.g. non-response rates)? [Note: don't discuss the impact of these issues here - save that for when you talk about limitations in the Discussion section.]
-
+    -   Explain how the data was collected/experiment was conducted.
+    -   Who was included? Who does this sample represent?
+    -   What were issues with data collection (e.g. non-response rates)? \[Note: don't discuss the impact of these issues here - save that for when you talk about limitations in the Discussion section.\]
 -   **Variable creation**\
-    - What are the variables in your analysis and how  are they defined? For example, if you created a combined (frequency times quantity) drinking variable you should describe how. 
-
+    -   What are the variables in your analysis and how are they defined? For example, if you created a combined (frequency times quantity) drinking variable you should describe how.
 -   **Analytic Methods**\
-    - Explain the statistical procedures that will be used to analyze your data.
-
-[^1]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
-
+    -   Explain the statistical procedures that will be used to analyze your data.
 
 ## Methodology: [accuracy]{.evergreen}
 
 ::: nonincremental
-- **Choose a statistical model that accounts for specific aspects of the application considered (and motivate the choice)**
+-   **Choose a statistical model that accounts for specific aspects of the application considered (and motivate the choice)**
 :::
 
 ::: {.callout-note icon="false"}
@@ -487,11 +460,10 @@ From *Psychiatric Comorbidity In Opioid Use Treatment Outcomes* (Linda Tang, win
 ![](figures/example-accuracy-1.png){fig-align="center"}
 :::
 
-
 ## Methodology: [clarity and presentation]{.dark-pink} of notation
 
 ::: nonincremental
-- **Make notation concrete**
+-   **Make notation concrete**
 :::
 
 ::: {.callout-note icon="false"}
@@ -504,7 +476,7 @@ From *An Evaluation Of Regularization Methods: When There Are More Predictors Th
 
 . . .
 
-Note: in _this_ paper, this excerpt was from the Introduction section
+Note: in *this* paper, this excerpt was from the Introduction section
 
 ## Methodology: [clarity and presentation]{.dark-pink} - can you visualize your methods?
 
@@ -512,9 +484,9 @@ Note: in _this_ paper, this excerpt was from the Introduction section
 ::: {.callout-note icon="false"}
 ## [{{< fa eye >}} Example]{.black}
 
-- **Design visualizations to help digest complicated methods**
+-   **Design visualizations to help digest complicated methods**
 
-- **Write clear figure captions**
+-   **Write clear figure captions**
 
 ![](figures/example-clarity-2.png){fig-align="center" width="700"}
 
@@ -526,50 +498,48 @@ From *Storm Chasers: Synthesizing New England Weather Data On A Dashboard For Em
 
 Open the file paper/exercises/2-methodology.md and follow the instructions:
 
-- Work in sub-teams (5 min)
+-   Work in sub-teams (5 min)
 
-- Talk within each team (3 min)
+-   Talk within each team (3 min)
 
-- One team shares with everyone (random pick).
+-   One team shares with everyone (random pick).
 
 ## [Methodology]{.maroon}: Workout
 
 Open the file paper/exercises/1-results.md and follow the instructions:
 
-- Work in sub-teams (10 min)
+-   Work in sub-teams (10 min)
 
-- Talk within each team (5 min)
+-   Talk within each team (5 min)
 
-- One team shares with everyone (random pick).
+-   One team shares with everyone (random pick).
 
 ## [Introduction]{.maroon}: Content
 
-- **Logical organization**, moving from the **general to the specific**
+-   **Logical organization**, moving from the **general to the specific**
 
-- Provide **sufficient background** **to understand** the paper
+-   Provide **sufficient background** **to understand** the paper
 
-- **Relate this paper to other work** in the scientific literature
+-   **Relate this paper to other work** in the scientific literature
 
-- Provide  explanation for **why this work is important**
+-   Provide explanation for **why this work is important**
 
--  End with **statements about the hypothesis/goals** of the paper
+-   End with **statements about the hypothesis/goals** of the paper
 
 . . .
 
 ::: {.callout-tip icon="true"}
+-   As you write, think that every undergraduate student should be able to follow your introduction.
 
-- As you write, think that every undergraduate student should be able to follow your introduction.
+-   You can be specific, but be gentle, e.g. remind the reader of definitions.
 
-- You can be specific, but be gentle, e.g. remind the reader of definitions.
-
-- You *can* write obvious things to establish the grounds, e.g. *Alzheimer disease is one of the main challenges faced by modern medicine.*. Pro-move is back it up with figures/statements from a reputable source, e.g. *Indeed, an estimated %% of adults will develop this disease as they age \[citation\]*.
+-   You *can* write obvious things to establish the grounds, e.g. *Alzheimer disease is one of the main challenges faced by modern medicine.*. Pro-move is back it up with figures/statements from a reputable source, e.g. *Indeed, an estimated %% of adults will develop this disease as they age \[citation\]*.
 :::
-
 
 ## Introduction: [originality, creativity and significance]{.purple}
 
 ::: nonincremental
-- **Highlight the contributions of your work** {{< fa arrow-right >}} Significance
+-   **Highlight the contributions of your work** {{< fa arrow-right >}} Significance
 :::
 
 ::: {.callout-note icon="false"}
@@ -580,18 +550,16 @@ From *Exploring Missingness and its Implications on Traffic Stop Data* (Amber Le
 ![](figures/example-significance-1.png){fig-align="center"}
 :::
 
-
 ## Introduction: [originality, creativity and significance]{.purple}
 
 ::: nonincremental
-- **Highlight the potential implications of your work in thee real-world** {{< fa arrow-right >}} Significance
+-   **Highlight the potential implications of your work in thee real-world** {{< fa arrow-right >}} Significance
 :::
-
 
 ::: {.callout-note icon="false"}
 ## [{{< fa eye >}} Example]{.black}
 
-From *Psychiatric Comorbidity in Opioid Use Treatment Outcomes* (Linda Tang	, winner at 2021 Fall USRESP)
+From *Psychiatric Comorbidity in Opioid Use Treatment Outcomes* (Linda Tang , winner at 2021 Fall USRESP)
 
 ![](figures/example-significance-3.png){fig-align="center"}
 :::
@@ -600,13 +568,15 @@ From *Psychiatric Comorbidity in Opioid Use Treatment Outcomes* (Linda Tang	, wi
 
 Open the file paper/exercises/3-introduction.md and follow the instructions:
 
-- Work in sub-teams (10 min)
+-   Work in sub-teams (10 min)
 
-- Talk within each team (5 min)
+-   Talk within each team (5 min)
 
-- One team shares with everyone (random pick).
+-   One team shares with everyone (random pick).
 
-## [Discussion]{.maroon}: Content[^1]
+## [Discussion]{.maroon}: Content[^5]
+
+[^5]: From *Assessment of the USRESP projects* on [causeweb.org/usproc/usresp](https://www.causeweb.org/usproc/usresp)
 
 -   Clearly state whether the results answer the question (support or disprove the hypothesis)?
 
@@ -614,10 +584,9 @@ Open the file paper/exercises/3-introduction.md and follow the instructions:
 
 -   Relate the results of the current work to previous research
 
-. . . 
+. . .
 
-
-This depends on the _exact_ results you get, there is not much to plan ahead! (So no workout)
+This depends on the *exact* results you get, there is not much to plan ahead! (So no workout)
 
 ## [Abstract]{.maroon}
 
@@ -639,60 +608,29 @@ How can we achieve that? A simple way:
 
 [XXX is important because of YYY.]{style="color:#1277E3;"} [Previous studies demonstrated / have neglected ZZZ.]{style="color:#098309;"} [In this work we do QQQ.]{style="color:#E58F1B;"} [We find that BBB.]{style="color:#C01BE5;"} [Our study suggests that KKK.]{style="color:#E51B80;"}
 
-
 ## Specific [abstract]{.maroon} example
 
-From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*  by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (USRESP 2022 Spring)
+From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota* by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (USRESP 2022 Spring)
 
 ::: {.callout-note icon="false"}
 ## [{{< fa eye >}} Example]{.black}
 
-Poor air quality is a major environmental health threat. Even short-term exposure to poor air quality—
-such as during extreme pollution events—can cause severe respiratory distress.
-While there have been
-significant decreases in Minnesota air pollution levels over the past 40 years, the summer of 2021 upset this
-trend with Hennepin County reporting the highest particulate measure in the past 20 years.
-This study focuses on analyzing the extreme values of pollutant concentration levels of sulfur dioxide (SO2) and fine inhalable particles (PM2.5) across three Minnesota counties as collected by the Environmental Protection
-Agency from 1980 to 2021. We employ extreme value analysis methods to fit the pollutant data. The models
-find that SO2 levels have fallen substantially since 1980 in accordance with EPA policies regulating diesel fuel
-and coal power plants. This dramatic decrease has made the magnitude of severe pollution incidents appear
-far more extreme than in earlier decades, with typical events in the 1980-1990s often equating to one in a
-hundred year events today. By contrast, no downward trend in PM2.5 levels was observed over the past 20
-years, an expected result given that PM2.5 has more varied sources and is therefore harder to regulate than
-SO2. However, models show a significant seasonal trend with peaks during winter months, revealing this past
-‘summer of smoke’ as particularly extreme.
+Poor air quality is a major environmental health threat. Even short-term exposure to poor air quality— such as during extreme pollution events—can cause severe respiratory distress. While there have been significant decreases in Minnesota air pollution levels over the past 40 years, the summer of 2021 upset this trend with Hennepin County reporting the highest particulate measure in the past 20 years. This study focuses on analyzing the extreme values of pollutant concentration levels of sulfur dioxide (SO2) and fine inhalable particles (PM2.5) across three Minnesota counties as collected by the Environmental Protection Agency from 1980 to 2021. We employ extreme value analysis methods to fit the pollutant data. The models find that SO2 levels have fallen substantially since 1980 in accordance with EPA policies regulating diesel fuel and coal power plants. This dramatic decrease has made the magnitude of severe pollution incidents appear far more extreme than in earlier decades, with typical events in the 1980-1990s often equating to one in a hundred year events today. By contrast, no downward trend in PM2.5 levels was observed over the past 20 years, an expected result given that PM2.5 has more varied sources and is therefore harder to regulate than SO2. However, models show a significant seasonal trend with peaks during winter months, revealing this past ‘summer of smoke’ as particularly extreme.
 :::
 
-Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What relates to  the [background]{style="color:#098309;"}? What relates to the [methods]{style="color:#E58F1B;"}? What relates to the  [results]{style="color:#C01BE5;"}? What relates to  the [discussion]{style="color:#E51B80;"}?
+Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What relates to the [background]{style="color:#098309;"}? What relates to the [methods]{style="color:#E58F1B;"}? What relates to the [results]{style="color:#C01BE5;"}? What relates to the [discussion]{style="color:#E51B80;"}?
 
 ## Specific [abstract]{.maroon} example
 
-
-From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota*  by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (USRESP 2022 Spring):
+From *Behind The Smoke: An Extreme Value Analysis Of Air Pollution In Minnesota* by Yicheng Shen, Jacob Flignor, Libby Nachreiner, & Karen Wang (USRESP 2022 Spring):
 
 ::: {.callout-note icon="false"}
 ## [{{< fa eye >}} Example]{.black}
 
-[Poor air quality is a major environmental health threat. Even short-term exposure to poor air quality—
-such as during extreme pollution events—can cause severe respiratory distress.]{style="color:#1277E3;"}  [While there have been
-significant decreases in Minnesota air pollution levels over the past 40 years, the summer of 2021 upset this
-trend with Hennepin County reporting the highest particulate measure in the past 20 years. ]{style="color:#098309;"}
-[This study focuses on analyzing the extreme values of pollutant concentration levels of sulfur dioxide (SO2) and fine inhalable particles (PM2.5) across three Minnesota counties as collected by the Environmental Protection
-Agency from 1980 to 2021. We employ extreme value analysis methods to fit the pollutant data.]{style="color:#E58F1B;"} 
-[The models
-find that SO2 levels have fallen substantially since 1980]{style="color:#C01BE5;"}[in accordance with EPA policies regulating diesel fuel
-and coal power plants.]{style="color:#E51B80;"}
-[This dramatic decrease has made the magnitude of severe pollution incidents appear
-far more extreme than in earlier decades, with typical events in the 1980-1990s often equating to one in a
-hundred year events today.]{style="color:#E51B80;"}
-[By contrast, no downward trend in PM2.5 levels was observed over the past 20
-years,]{style="color:#C01BE5;"}[an expected result given that PM2.5 has more varied sources and is therefore harder to regulate than
-SO2.]{style="color:#E51B80;"}
-[However, models show a significant seasonal trend with peaks during winter months,]{style="color:#C01BE5;"}[ revealing this past
-‘summer of smoke’ as particularly extreme.]{style="color:#E51B80;"}
+[Poor air quality is a major environmental health threat. Even short-term exposure to poor air quality— such as during extreme pollution events—can cause severe respiratory distress.]{style="color:#1277E3;"} [While there have been significant decreases in Minnesota air pollution levels over the past 40 years, the summer of 2021 upset this trend with Hennepin County reporting the highest particulate measure in the past 20 years.]{style="color:#098309;"} [This study focuses on analyzing the extreme values of pollutant concentration levels of sulfur dioxide (SO2) and fine inhalable particles (PM2.5) across three Minnesota counties as collected by the Environmental Protection Agency from 1980 to 2021. We employ extreme value analysis methods to fit the pollutant data.]{style="color:#E58F1B;"} [The models find that SO2 levels have fallen substantially since 1980]{style="color:#C01BE5;"}[in accordance with EPA policies regulating diesel fuel and coal power plants.]{style="color:#E51B80;"} [This dramatic decrease has made the magnitude of severe pollution incidents appear far more extreme than in earlier decades, with typical events in the 1980-1990s often equating to one in a hundred year events today.]{style="color:#E51B80;"} [By contrast, no downward trend in PM2.5 levels was observed over the past 20 years,]{style="color:#C01BE5;"}[an expected result given that PM2.5 has more varied sources and is therefore harder to regulate than SO2.]{style="color:#E51B80;"} [However, models show a significant seasonal trend with peaks during winter months,]{style="color:#C01BE5;"}[revealing this past ‘summer of smoke’ as particularly extreme.]{style="color:#E51B80;"}
 :::
 
-Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What relates to  the [background]{style="color:#098309;"}? What relates to the [methods]{style="color:#E58F1B;"}? What relates to the  [results]{style="color:#C01BE5;"}? What relates to  the [discussion]{style="color:#E51B80;"}?
+Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What relates to the [background]{style="color:#098309;"}? What relates to the [methods]{style="color:#E58F1B;"}? What relates to the [results]{style="color:#C01BE5;"}? What relates to the [discussion]{style="color:#E51B80;"}?
 
 # Final remarks & Resources
 
@@ -700,17 +638,17 @@ Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What rel
 
 <br>
 
-- **Next deadline:** [December 2024]{.maroon} (usually  Dec 20th)
+-   **Next deadline:** [December 2024]{.maroon} (usually Dec 20th)
 
 <br>
 
-- **Everything** from USRESP shown today is on their website!
+-   **Everything** from USRESP shown today is on their website!
 
-    - [General Information](https://www.causeweb.org/usproc/usresp)
-    
-    - [Template and evaluation criteria](https://www.causeweb.org/usproc/report-template-USRESP)
-    
-    - [Past winners and honorable mentions](https://www.causeweb.org/usproc/projects/winners)
+    -   [General Information](https://www.causeweb.org/usproc/usresp)
+
+    -   [Template and evaluation criteria](https://www.causeweb.org/usproc/report-template-USRESP)
+
+    -   [Past winners and honorable mentions](https://www.causeweb.org/usproc/projects/winners)
 
 ## About you: submitting to USRESP
 
@@ -718,14 +656,13 @@ Can you see what summarizes the [introduction]{style="color:#1277E3;"}? What rel
 
 Discuss with your team:
 
-- Who in your team wants to participate to the writing?
+-   Who in your team wants to participate to the writing?
 
-- Who could be your advisor(s) [_that is, who could give you feedback and supervise your paper_]?  When will you ask them?
+-   Who could be your advisor(s) \[*that is, who could give you feedback and supervise your paper*\]? When will you ask them?
 
 ## Tools
 
 ::: nonincremental
-
 In the `paper` folder, the skeleton uses Quarto for writing a paper. Look at use of:
 
 -   child-documents
@@ -736,18 +673,15 @@ In the `paper` folder, the skeleton uses Quarto for writing a paper. Look at use
 
 -   references
 
-  - quick demo of adding new references
-  
+-   quick demo of adding new references
 :::
 
-. . . 
+. . .
 
 ::: nonincremental
-
 The file `03-results.qmd` has an example table created with **kable and kable extra**
 
-- Check out [their vignette](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
-
+-   Check out [their vignette](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 :::
 
 ## Your Feedback for me {{< fa handshake >}}
@@ -757,9 +691,8 @@ Please take a moment to provide feedback for future editions of this workshop!
 ::: {.columns .v-center-container}
 ::: {.column width="50%"}
 ### Link
-<br>
-<br>
-[bit.ly/isi-buds-writers-24](bit.ly/isi-buds-writers-24)
+
+<br> <br> [bit.ly/isi-buds-writers-24](bit.ly/isi-buds-writers-24)
 :::
 
 ::: {.column width="50%"}
@@ -769,7 +702,7 @@ Please take a moment to provide feedback for future editions of this workshop!
 :::
 :::
 
-# Thank you! <br> 
+# Thank you! <br>
 
 *Reach out to me for any questions*
 
